@@ -9,21 +9,23 @@ local CUSTOM_RECIPETABS = _G.CUSTOM_RECIPETABS
 
 PrefabFiles =
 {
-	"barrel",
-	"brewery",
-	"bucket",
-	"bucketfull",
-	"caffeinberry",
-	"campkettle",
-	"cup",
-	"desalinator",
-	"kettle",
-	"portablekettle",
-	"preparedrink",
-	"tea_tree",
-	"tea_seed",
-	"well",
-	"well_drilling",
+ "bucket",
+ "bucketfull",
+ "bucketice",
+ "cup",
+ "preparedrink",
+ "barrel",
+ "brewery",
+ "campkettle",
+ "kettle",
+ "portablekettle",
+ "desalinator",
+ "well_drilling",
+ "tea_tree",
+ "tea_seed",
+ "caffeinberry_bean",
+ "caffeinberry",
+ "well",
 }
 
 Assets = {
