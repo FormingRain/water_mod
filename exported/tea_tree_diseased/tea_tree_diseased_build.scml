@@ -159,7 +159,7 @@
                 </key>
             </timeline>
         </animation>
-        <animation id="4" name="idle1_to_dead" length="1000" interval="100">
+        <animation id="4" name="idle1_to_dead1" length="1000" interval="100">
             <mainline>
                 <key id="0">
                     <object_ref id="0" timeline="0" key="0" z_index="0"/>
