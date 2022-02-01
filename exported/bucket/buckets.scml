@@ -74,15 +74,12 @@
                     <object_ref id="0" timeline="0" key="0" z_index="0"/>
                 </key>
                 <key id="1" time="300">
-                    <object_ref id="0" timeline="0" key="1" z_index="0"/>
+                    <object_ref id="0" timeline="0" key="0" z_index="0"/>
                 </key>
             </mainline>
             <timeline id="0" name="buckets">
                 <key id="0" spin="0">
                     <object folder="0" file="4" y="32" angle="0" scale_x="0.5" scale_y="0.5"/>
-                </key>
-                <key id="1" time="300" spin="0">
-                    <object folder="0" file="4" x="7" y="79" angle="0" scale_x="0.81592" scale_y="0.81592"/>
                 </key>
             </timeline>
         </animation>
