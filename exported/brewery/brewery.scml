@@ -27,7 +27,7 @@
         <file id="0" name="swap/brewery_swap.png" width="200" height="46" pivot_x="0.5" pivot_y="0.5"/>
     </folder>
     <folder id="4" name="swap_food">
-        <file id="0" name="swap_food/swap_food.png" width="128" height="128" pivot_x="0.5" pivot_y="0.5"/>
+        <file id="0" name="swap_food/swap_food.png" width="128" height="128" pivot_x="0.5" pivot_y="0.2"/>
     </folder>
     <folder id="5" name="sign">
         <file id="0" name="sign/sign.png" width="152" height="275" pivot_x="0.5" pivot_y="0.5"/>
@@ -433,10 +433,10 @@
             </timeline>
             <timeline id="10" name="swap_food">
                 <key id="0" spin="0">
-                    <object folder="4" file="0" x="-19.854489" y="173.077399" angle="0" scale_x="0.75" scale_y="0.75"/>
+                    <object folder="4" file="0" x="-19.854489" y="144.277399" angle="0" scale_x="0.75" scale_y="0.75"/>
                 </key>
                 <key id="1" time="300" spin="0">
-                    <object folder="4" file="0" x="-19.854489" y="301.077399" angle="0" scale_x="0.75" scale_y="0.75"/>
+                    <object folder="4" file="0" x="-19.854489" y="272.277399" angle="0" scale_x="0.75" scale_y="0.75"/>
                 </key>
             </timeline>
             <timeline id="11" name="sign">
@@ -1142,13 +1142,13 @@
             </timeline>
             <timeline id="11" name="swap_food">
                 <key id="0" spin="-1">
-                    <object folder="4" file="0" x="-19.854489" y="301.077399" angle="0" scale_x="0.75" scale_y="0.75"/>
+                    <object folder="4" file="0" x="-19.854489" y="272.277399" angle="0" scale_x="0.75" scale_y="0.75"/>
                 </key>
                 <key id="1" time="60">
-                    <object folder="4" file="0" x="0.524844" y="295.625885" angle="350.512952" scale_x="0.75" scale_y="0.75"/>
+                    <object folder="4" file="0" x="-4.222107" y="267.219786" angle="350.512952" scale_x="0.75" scale_y="0.75"/>
                 </key>
                 <key id="2" time="180" spin="-1">
-                    <object folder="4" file="0" x="-56.716651" y="285.355397" angle="14.559989" scale_x="0.75" scale_y="0.75"/>
+                    <object folder="4" file="0" x="-49.476517" y="257.48031" angle="14.559989" scale_x="0.75" scale_y="0.75"/>
                 </key>
             </timeline>
         </animation>
@@ -1318,7 +1318,7 @@
             </timeline>
             <timeline id="11" name="swap_food">
                 <key id="0" spin="0">
-                    <object folder="4" file="0" x="-19.854489" y="301.077399" angle="0" scale_x="0.75" scale_y="0.75"/>
+                    <object folder="4" file="0" x="-19.854489" y="272.277399" angle="0" scale_x="0.75" scale_y="0.75"/>
                 </key>
             </timeline>
         </animation>
