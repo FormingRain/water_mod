@@ -58,7 +58,7 @@
         <file id="0" name="cup_fuer/cup_fuer-0.png" width="128" height="128" pivot_x="0.515625" pivot_y="0.15625"/>
     </folder>
     <folder id="19" name="cup_greentea">
-        <file id="0" name="cup_greentea/cup_greentea-0.png" width="128" height="128" pivot_x="0.59375" pivot_y="0.203125"/>
+        <file id="0" name="cup_greentea/cup_greentea-0.png" width="128" height="128" pivot_x="0.5" pivot_y="0.203125"/>
     </folder>
     <folder id="20" name="cup_coffee">
         <file id="0" name="cup_coffee/cup_coffee-0.png" width="128" height="128" pivot_x="0.46875" pivot_y="0.21875"/>
